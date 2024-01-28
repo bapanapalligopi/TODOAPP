@@ -1,0 +1,34 @@
+.item{
+    margin: 0 auto;
+    color:black ;
+    font-size:20px;
+}
+
+.itemname{
+    font-weight: bold;
+    padding:12px;
+}
+
+.linestyle{
+   border: 0.1px solid #f4f4f4;
+}
+
+.deletebut{
+    float: right;
+    color: white;
+    background-color: #f7ca18;
+    width: 30px;
+    height: 30px;
+    margin-bottom: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: bold;
+}
+.deletebut:hover{
+    background-color: rgb(238, 77, 77);
+}
+
+.completed{
+    text-decoration: line-through;
+}

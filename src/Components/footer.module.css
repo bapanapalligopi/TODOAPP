@@ -1,0 +1,15 @@
+.stylefooter{
+    bottom: 0;
+    position: fixed;
+    font-size: 1.2em;
+    text-align: center;
+    font-weight:bold;
+    width: 100%;
+    background-color:#f7ca18;
+    padding: 20px;
+    box-shadow: 2px 4px 6px rgba(0,0,0,0.1);
+}
+
+.list{
+    margin: 50px;
+}
