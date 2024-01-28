@@ -4,9 +4,6 @@ export default function Form({tasks,setTasks})
 {
     //give the value for task 
     const [task, setTask]= useState({name:'',done:false});
-
-   
-
     //function for handling submit
     function handleSubmit(e)
     {
